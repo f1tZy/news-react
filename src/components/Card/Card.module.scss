@@ -1,0 +1,71 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  max-width: 400px;
+  background: #fff;
+  box-sizing: border-box;
+  border-radius: 20px;
+
+  .cardImg {
+    box-sizing: border-box;
+    border-radius: 20px 20px 0 0;
+    max-width: 100%;
+  }
+
+  .cardInfo {
+    font-family: "Montserrat", sans-serif;
+    margin: 24px;
+
+    .cardDate {
+      font-family: "Montserrat", sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 24px;
+      align-items: center;
+      color: #b6bcbf;
+      margin: 0 0 12px;
+    }
+
+    .cardTitle {
+      font-family: "Montserrat", sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 26px;
+      line-height: 30px;
+      color: #1a1b22;
+      margin: 0;
+    }
+
+    .cardText {
+      font-family: "Montserrat", sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 22px;
+      color: #1a1b22;
+      margin: 16px 0 18px;
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .cardSource {
+      font-family: "Montserrat", sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 16px;
+      line-height: 20px;
+      letter-spacing: 0.4px;
+      text-transform: uppercase;
+      color: #b6bcbf;
+      text-decoration: none;
+      position: absolute;
+      left: 24px;
+      bottom: 17px;
+    }
+  }
+}
+

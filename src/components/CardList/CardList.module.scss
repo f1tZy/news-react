@@ -1,0 +1,43 @@
+.results {
+  position: relative;
+  padding: 80px 104px;
+  background: #f5f6f7;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  overflow: auto;
+
+  .resultsCardsContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(288px, 1fr));
+    grid-gap: 16px;
+    justify-items: center;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 8px;
+  }
+
+  .resultsTitle {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    margin: 0 0 64px;
+    color: #1a1b22;
+  }
+
+  .resultsShowMore {
+    font-family: "Montserrat", sans-serif;
+    display: block;
+    font-weight: 500;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    color: #1a1b22;
+    background-color: #fff;
+    width: 288px;
+    height: 64px;
+    margin: 64px auto 0;
+    outline: none;
+  }
+}

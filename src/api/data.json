@@ -1,0 +1,69 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Is Bitcoin a safe bet?",
+      "description": "The digital cryptocurrency Bitcoin has tripled in value in the past three years. Will the boom only lead to a bigger bust?",
+      "url": "https://www.cnn.com/videos/business/2021/02/20/is-bitcoin-a-safe-bet-smerconish-vpx.cnn",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210220112649-smerconish-bitcoin-guests-split-super-tease.jpg",
+      "publishedAt": "2021-02-20T17:12:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Jack Morse",
+      "title": "Coinbase says unmasking Satoshi Nakamoto might harm its business",
+      "description": "Some things are best left a mystery — at least as far as Coinbase is concerned. \nThe San Francisco-based cryptocurrency exchange has been preparing to go public since last year, and in a Thursday prospectus filed with the Securities and Exchange Commission (S…",
+      "url": "https://mashable.com/article/coinbase-direct-listing-unmasking-bitcoin-creator-satoshi-nakamoto/",
+      "urlToImage": "https://mondrian.mashable.com/2021%252F02%252F26%252Fe8%252F17dd59c8ab704170bf5e29da12d9ebbf.c6b86.jpg%252F1200x630.jpg?signature=Fs2g1MN2HN_UfNi1kogIjVxyo8E=",
+      "publishedAt": "2021-02-26T00:40:52Z",
+      "content": "Some things are best left a mystery at least as far as Coinbase is concerned. \r\nThe San Francisco-based cryptocurrency exchange has been preparing to go public since last year, and in a Thursday pros… [+1953 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Julia Horowitz, CNN Business",
+      "title": "How bitcoin is like a teenager",
+      "description": "With the value of bitcoin in the market topping $1 trillion, longtime backers may be wiping tears from their eyes. The cryptocurrency is growing up.",
+      "url": "https://www.cnn.com/2021/02/21/investing/stocks-week-ahead/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201124080935-02-bitcoin---stock-super-tease.jpg",
+      "publishedAt": "2021-02-21T13:50:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Why bitcoin could triple over next year",
+      "description": "William Quigley, managing director of Magnetic, explains why he believes that bitcoin's value can still rise dramatically into 2022.",
+      "url": "https://www.cnn.com/videos/business/2021/03/03/bitcoin-crypto-william-quigley-markets-now.cnn-business",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210219081655-02-bitcoin-file-super-tease.jpg",
+      "publishedAt": "2021-03-03T19:10:57Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Whitney Kimball",
+      "title": "Bitcoin Hit All-Time High at Over $50,000, Leaving Us in Dire Need of Sound Financial Advice",
+      "description": "Bitcoin is the future, again: this morning, it hit an all-time high value of over $50,000. Is there a lesson in here? Are Elon Musk’s tweets a good investment strategy? Should we get in on this? We have yet to learn. Or maybe we learn nothing, and the notorio…",
+      "url": "https://gizmodo.com/bitcoin-hit-all-time-high-at-over-50-000-leaving-us-i-1846279042",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/vroqydxxgqalz1hstjw8.jpg",
+      "publishedAt": "2021-02-16T17:45:00Z",
+      "content": "Bitcoin is the future, again: this morning, it hit an all-time high value of over $50,000. Is there a lesson in here? Are Elon Musks tweets a good investment strategy? Should we get in on this? We ha… [+3198 chars]"
+    }
+  ]
+}
